@@ -45,8 +45,13 @@ span {
     font-size: 3vw;
 }
 
+h2 {
+    font-size: 5vw;
+}
+
 @font-face {
   font-family: "hind-regular";
   src: url("../fonts/hind-regular.otf") format("truetype");
 
 }
+
