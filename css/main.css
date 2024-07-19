@@ -49,9 +49,19 @@ h2 {
     font-size: 8vw;
 }
 
+
+
+a {
+  color: var(--tg-theme-text-color);
+}
+a:hover {
+  color: var(--tg-theme-link-color);
+}
+
+
 @font-face {
   font-family: "hind-regular";
   src: url("../fonts/hind-regular.otf") format("truetype");
-
 }
+
 
