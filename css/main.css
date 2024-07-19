@@ -52,10 +52,10 @@ h2 {
 
 
 a {
-  color: var(--tg-theme-text-color);
+    color: var(--tg-theme-text-color);
 }
 a:hover {
-  color: var(--tg-theme-link-color);
+    color: var(--tg-theme-accent-text-color);
 }
 
 
