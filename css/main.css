@@ -8,13 +8,19 @@ body {
     text-align: left;
 }
 
+
+.GridLayoutMain {
+    grid-template-columns: 100%;
+    display: grid;
+}
+
 .GridLayout {
     grid-template-columns: 50% 50%;
     display: grid;
 }
 
 .GridLayout1 {
-    grid-template-columns: 50%;
+    grid-template-columns: 100%;
     display: grid;
 }
 
