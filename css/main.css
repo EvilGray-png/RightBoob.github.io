@@ -41,9 +41,12 @@ body {
 }
 
 
+span {
+    font-size: 3vw;
+}
+
 @font-face {
   font-family: "hind-regular";
   src: url("../fonts/hind-regular.otf") format("truetype");
 
 }
-
